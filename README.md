@@ -5,9 +5,6 @@
 ## 🔴 Live Interactive Dashboard
 👉 [Click here to view the fully interactive dashboard](https://bit.ly/4datfMv)
 
-## 📸 Screenshots & LinkedIn Post
-🔗 [View Dashboard Screenshots on LinkedIn](https://www.linkedin.com/posts/chidera-okpala-22417730a_powerbi-dataanalytics-datavisualization-ugcPost-7464011477541122048-3-Mf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6w03wBP8IkgWE3bRhE1kJdUlfQmNunzig)
-
 ---
 
 ## 📌 Project Overview
