@@ -323,16 +323,6 @@ every excuse for making bad ones.
 
 ---
 
-## 🙏 Acknowledgements
-
-Special thanks to TS Academy for the scholarship 
-opportunity and for believing in people enough to 
-invest in their growth. And to my tutor Ezekiel Aleke, 
-thank you for the guidance, patience and support 
-throughout this journey — it made all the difference.
-
----
-
 ## 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/posts/chidera-okpala-22417730a_powerbi-dataanalytics-datavisualization-ugcPost-7464011477541122048-3-Mf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6w03wBP8IkgWE3bRhE1kJdUlfQmNunzig)
