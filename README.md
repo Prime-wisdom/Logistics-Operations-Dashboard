@@ -325,4 +325,5 @@ every excuse for making bad ones.
 
 ## 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/posts/chidera-okpala-22417730a_powerbi-dataanalytics-datavisualization-ugcPost-7464011477541122048-3-Mf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6w03wBP8IkgWE3bRhE1kJdUlfQmNunzig)
+[LinkedIn][(https://www.linkedin.com/posts/chidera-okpala-22417730a_powerbi-dataanalytics-datavisualization-ugcPost-7464011477541122048-3-Mf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6w03wBP8IkgWE3bRhE1kJdUlfQmNunzig)
+](https://www.linkedin.com/in/chidera-okpala-22417730a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkFDMVI8%2BTOqnSV45yQK1%2Bw%3D%3D)
